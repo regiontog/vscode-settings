@@ -37,7 +37,7 @@
     "rust-analyzer.highlightingOn": false,
     "vim.foldfix": true,
     "vim.cursorStylePerMode.normal": "block",
-    "vim.cursorStylePerMode.insert": "line",
+    "vim.cursorStylePerMode.insert": "underline",
     "vim.cursorStylePerMode.replace": "underline",
     "vim.easymotion": true,
     "vim.sneak": true,
