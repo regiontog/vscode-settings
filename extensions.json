@@ -2,10 +2,10 @@
   "arnohovhannisyan.syncify",
   "bungcip.better-toml",
   "matklad.ra-lsp",
+  "ms-vscode-remote.remote-wsl",
   "pingfromheaven.less-rusty",
   "PKief.material-icon-theme",
   "vadimcn.vscode-lldb",
   "VisualStudioExptTeam.vscodeintellicode",
-  "vscodevim.vim",
-  "ms-vscode-remote.remote-wsl"
+  "vscodevim.vim"
 ]
