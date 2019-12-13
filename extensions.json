@@ -6,5 +6,6 @@
   "PKief.material-icon-theme",
   "vadimcn.vscode-lldb",
   "VisualStudioExptTeam.vscodeintellicode",
-  "vscodevim.vim"
+  "vscodevim.vim",
+  "ms-vscode-remote.remote-wsl"
 ]
