@@ -1303,4 +1303,5 @@
     "javascript.validate.enable": false,
     "editor.suggestSelection": "first",
     "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "javascript.implicitProjectConfig.checkJs": true,
 }
