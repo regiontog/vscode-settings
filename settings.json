@@ -1,6 +1,7 @@
 {
     "arduino.path": "/usr/bin",
     "php.validate.executablePath": "/bin/php56",
+    "tag"
     // Editor
     "editor.detectIndentation": false,
     "editor.fontFamily": "Fira Code Retina",
