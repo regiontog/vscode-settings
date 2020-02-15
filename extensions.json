@@ -4,10 +4,10 @@
   "firefox-devtools.vscode-firefox-debug",
   "matklad.ra-lsp",
   "ms-vscode-remote.remote-wsl",
+  "ms-vsliveshare.vsliveshare",
   "pingfromheaven.less-rusty",
   "PKief.material-icon-theme",
   "vadimcn.vscode-lldb",
   "VisualStudioExptTeam.vscodeintellicode",
-  "vscodevim.vim",
-  "ms-vsliveshare.vsliveshare"
+  "vscodevim.vim"
 ]
