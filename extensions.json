@@ -6,6 +6,7 @@
 	"ms-dotnettools.csharp",
 	"ms-vscode-remote.remote-wsl",
 	"ms-vsliveshare.vsliveshare",
+	"octref.vetur",
 	"pingfromheaven.less-rusty",
 	"PKief.material-icon-theme",
 	"vadimcn.vscode-lldb",
