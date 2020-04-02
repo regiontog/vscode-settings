@@ -32,7 +32,7 @@
     // Explorer
     "explorer.autoReveal": true,
     "editor.codeActionsOnSave": {
-        "source.fixAll.prettier": true,
+        "source.fixAll.eslint": true,
     },
     // Extentions
     "rust-analyzer.enableEnhancedTyping": false,
