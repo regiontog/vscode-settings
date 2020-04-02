@@ -35,6 +35,9 @@
         "source.fixAll.eslint": true,
     },
     // Extentions
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
     "rust-analyzer.enableEnhancedTyping": false,
     "rust-analyzer.highlightingOn": false,
     "vim.foldfix": true,
