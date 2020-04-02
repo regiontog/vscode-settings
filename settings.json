@@ -36,7 +36,7 @@
     },
     // Extentions
     "[javascript]": {
-        "editor.defaultFormatter": "esbenp.prettier-vscode"
+        "editor.formatOnSave": false,
     },
     "rust-analyzer.enableEnhancedTyping": false,
     "rust-analyzer.highlightingOn": false,
