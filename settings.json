@@ -118,14 +118,14 @@
             ]
         }
     ],
+        "vim.normalModeKeyBindings": [
     "vim.normalModeKeyBindingsNonRecursive": [
         {
             "before": [
                 "<C-f>"
             ],
             "after": [
-                "j",
-                "j",
+                "Q",
             ],
             // "commands": [
             //     "editor.action.smartSelect.expand",
