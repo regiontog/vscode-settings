@@ -112,15 +112,15 @@
             "before": [
                 "<C-f>"
             ],
-            "after": [
-                "v"
-            ],
             "commands": [
                 {
                     "command": "editor.action.smartSelect.expand",
                     "args": []
                 }
-            ]
+            ],
+            // "after": [
+            //     "v"
+            // ],
         },
         {
             "before": [
