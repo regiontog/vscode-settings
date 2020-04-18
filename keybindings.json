@@ -10,11 +10,6 @@
         "when": "!editorTextFocus"
     },
     {
-        "key": "ctrl+j",
-        "command": "editor.action.smartSelect.expand",
-        "when": "editorTextFocus"
-    },
-    {
         "key": "shift+alt+right",
         "command": "-editor.action.smartSelect.expand",
         "when": "editorTextFocus"
