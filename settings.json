@@ -125,6 +125,8 @@
             ],
             "commands": [
                 "editor.action.smartSelect.expand",
+            ],
+            "after": [
                 "v"
             ]
         },
