@@ -110,7 +110,7 @@
     "vim.normalModeKeyBindingsNonRecursive": [
         {
             "before": [
-                "",
+                "L",
                 "1",
             ],
             "commands": [
@@ -124,7 +124,7 @@
                 "<C-f>"
             ],
             "after": [
-                "\\",
+                "L",
                 "1"
             ],
         },
