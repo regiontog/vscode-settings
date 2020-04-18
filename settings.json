@@ -107,6 +107,17 @@
             ]
         }
     ],
+    "vim.normalModeKeyBindings": [
+        {
+            "before": [
+                "<C-f>"
+            ],
+            "after": [
+                "[",
+                "a",
+            ],
+        },
+    ],
     "vim.normalModeKeyBindingsNonRecursive": [
         {
             "before": [
@@ -118,15 +129,6 @@
                     "command": "editor.action.smartSelect.expand",
                 }
             ]
-        },
-        {
-            "before": [
-                "<C-f>"
-            ],
-            "after": [
-                "[",
-                "a",
-            ],
         },
         {
             "before": [
