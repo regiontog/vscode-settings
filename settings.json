@@ -110,9 +110,11 @@
     "vim.normalModeKeyBindingsNonRecursive": [
         {
             "before": [
-                "<C-.>"
+                "<C-f>"
             ],
-            "after": [ ],
+            "after": [
+                "v"
+            ],
             "commands": [
                 {
                     "command": "editor.action.smartSelect.expand",
