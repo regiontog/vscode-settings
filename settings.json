@@ -1296,4 +1296,5 @@
     "[typescript]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
+    "breadcrumbs.enabled": false,
 }
