@@ -51,14 +51,14 @@
     "vim.useCtrlKeys": true,
     "vim.hlsearch": true,
     "vim.leader": "<space>",
-    "vim.handleKeys": {
-        "<C-a>": false,
-        "<C-f>": false,
-        "<C-c>": false,
-        "<C-v>": false,
-        "<C-j>": false,
-        "<C-k>": false,
-    },
+    // "vim.handleKeys": {
+    //     "<C-a>": false,
+    //     "<C-f>": false,
+    //     "<C-c>": false,
+    //     "<C-v>": false,
+    //     "<C-j>": false,
+    //     "<C-k>": false,
+    // },
     "[rust]": {
         "vim.normalModeKeyBindings": [
             {
