@@ -110,7 +110,7 @@
     "vim.normalModeKeyBindingsNonRecursive": [
         {
             "before": [
-                "<C-J>"
+                "<C-.>"
             ],
             "after": [ ],
             "commands": [
