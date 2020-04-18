@@ -114,21 +114,18 @@
                 "1",
             ],
             "commands": [
-
+                {
+                    "command": "editor.action.smartSelect.expand",
+                }
             ]
         },
         {
             "before": [
                 "<C-f>"
             ],
-            "commands": [
-                {
-                    "command": "editor.action.smartSelect.expand",
-                    "args": []
-                }
-            ],
             "after": [
-                "v"
+                "\\",
+                "1"
             ],
         },
         {
