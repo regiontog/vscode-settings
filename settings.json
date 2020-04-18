@@ -122,6 +122,9 @@
         {
             "before": [
                 "Q"
+            ],
+            "commands": [
+                "editor.action.smartSelect.expand",
             ]
         }
     ],
