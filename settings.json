@@ -125,9 +125,12 @@
             "before": [
                 "Q"
             ],
-            "commands": [
-                "editor.action.smartSelect.expand",
-            ]
+            "after": [
+                "j"
+            ],
+            // "commands": [
+            //     "editor.action.smartSelect.expand",
+            // ]
         },
         {
             "before": [
