@@ -124,9 +124,7 @@
                 "<C-f>"
             ],
             "commands": [
-                {
-                    "command": "editor.action.smartSelect.expand",
-                },
+                "editor.action.smartSelect.expand",
                 "v"
             ]
         },
