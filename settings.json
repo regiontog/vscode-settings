@@ -201,7 +201,6 @@
             "before": [
                 "<leader>",
                 ";",
-                ";"
             ],
             "after": [],
             "commands": [
