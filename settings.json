@@ -123,9 +123,6 @@
             "before": [
                 "<C-f>"
             ],
-            "after": [
-                "v"
-            ],
             "commands": [
                 "editor.action.smartSelect.expand",
             ],
