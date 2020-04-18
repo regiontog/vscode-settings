@@ -121,11 +121,14 @@
     "vim.normalModeKeyBindings": [
         {
             "before": [
-                "n"
+                ","
             ],
-            "after": [
-                "Q",
-            ],
+            // "after": [
+            //     "Q",
+            // ],
+            "commands": [
+                "editor.action.smartSelect.expand",
+            ]
         },
     ],
     "vim.normalModeKeyBindingsNonRecursive": [
