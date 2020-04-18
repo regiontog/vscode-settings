@@ -118,7 +118,13 @@
             ]
         }
     ],
-        "vim.normalModeKeyBindings": [
+    "vim.normalModeKeyBindings": [
+        {
+            "before": [
+                "Q"
+            ]
+        }
+    ],
     "vim.normalModeKeyBindingsNonRecursive": [
         {
             "before": [
