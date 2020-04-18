@@ -121,7 +121,7 @@
     "vim.normalModeKeyBindings": [
         {
             "before": [
-                "L"
+                "n"
             ],
             "after": [
                 "Q",
