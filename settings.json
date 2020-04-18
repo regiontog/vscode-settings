@@ -116,7 +116,7 @@
                 {
                     "command": "editor.action.smartSelect.expand",
                 },
-                "v"
+                ":v"
             ]
         },
         {
