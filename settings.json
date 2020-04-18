@@ -94,17 +94,6 @@
                 "v",
                 "y"
             ]
-        },
-        {
-            "before": [
-                "p",
-            ],
-            "after": [
-                "p",
-                "g",
-                "v",
-                "y"
-            ]
         }
     ],
     "vim.insertModeKeyBindingsNonRecursive": [
@@ -121,14 +110,14 @@
     "vim.normalModeKeyBindings": [
         {
             "before": [
-                ","
+                "L"
             ],
-            // "after": [
-            //     "Q",
-            // ],
-            "commands": [
-                "editor.action.smartSelect.expand",
-            ]
+            "after": [
+                "Q",
+            ],
+            // "commands": [
+            //     "editor.action.smartSelect.expand",
+            // ]
         },
     ],
     "vim.normalModeKeyBindingsNonRecursive": [
