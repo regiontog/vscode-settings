@@ -112,9 +112,13 @@
             "before": [
                 "<C-J>"
             ],
-            "after": [
-                "j",
-            ],
+            "after": [ ],
+            "commands": [
+                {
+                    "command": "workbench.action.showCommands",
+                    "args": []
+                }
+            ]
         },
         {
             "before": [
