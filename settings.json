@@ -121,7 +121,7 @@
     "vim.normalModeKeyBindings": [
         {
             "before": [
-                "Q"
+                "L"
             ],
             "commands": [
                 "editor.action.smartSelect.expand",
@@ -134,7 +134,7 @@
                 "<C-f>"
             ],
             "after": [
-                "Q",
+                "L",
             ],
             // "commands": [
             //     "editor.action.smartSelect.expand",
