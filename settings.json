@@ -85,7 +85,7 @@
     },
     "vim.visualModeKeyBindingsNonRecursive": [
         {
-            "after": [
+            "before": [
                 "p",
             ],
             "after": [
