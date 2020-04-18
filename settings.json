@@ -56,8 +56,8 @@
         "<C-f>": false,
         "<C-c>": false,
         "<C-v>": false,
-        "<C-j>": true,
-        "<C-k>": true,
+        "<C-j>": false,
+        "<C-k>": false,
     },
     "[rust]": {
         "vim.normalModeKeyBindings": [
