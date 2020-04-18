@@ -112,6 +112,13 @@
             "before": [
                 "L",
             ],
+            "after": []
+        },
+        {
+            "before": [
+                "L",
+                "1",
+            ],
             "commands": [
                 {
                     "command": "editor.action.smartSelect.expand",
