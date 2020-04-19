@@ -1323,7 +1323,11 @@
     },
     "cSpell.userWords": [
         "asec",
+        "keypair",
+        "prebuild",
+        "predocs",
         "publickey",
-        "secretkey"
+        "secretkey",
+        "typedoc"
     ],
 }
