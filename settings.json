@@ -1321,4 +1321,9 @@
     "[typescript]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
+    "cSpell.userWords": [
+        "asec",
+        "publickey",
+        "secretkey"
+    ],
 }
