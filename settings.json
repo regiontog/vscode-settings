@@ -1331,6 +1331,7 @@
         "publickey",
         "secretkey",
         "sourcemap",
+        "typechecking",
         "typedoc"
     ],
 }
