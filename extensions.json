@@ -1,5 +1,6 @@
 [
 	"arnohovhannisyan.syncify",
+	"ban.spellright",
 	"bungcip.better-toml",
 	"dbaeumer.vscode-eslint",
 	"esbenp.prettier-vscode",
@@ -12,6 +13,7 @@
 	"octref.vetur",
 	"pingfromheaven.less-rusty",
 	"PKief.material-icon-theme",
+	"streetsidesoftware.code-spell-checker",
 	"vadimcn.vscode-lldb",
 	"VisualStudioExptTeam.vscodeintellicode",
 	"vscodevim.vim"
