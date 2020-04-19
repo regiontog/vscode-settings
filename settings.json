@@ -1322,12 +1322,15 @@
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
     "cSpell.userWords": [
+        "ESNEXT",
+        "Err's",
         "asec",
         "keypair",
         "prebuild",
         "predocs",
         "publickey",
         "secretkey",
+        "sourcemap",
         "typedoc"
     ],
 }
