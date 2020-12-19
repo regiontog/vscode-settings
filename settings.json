@@ -1336,4 +1336,7 @@
     ],
     "java.configuration.checkProjectSettingsExclusions": false,
     "java.semanticHighlighting.enabled": true,
+    "apklab.apkSignerPath": "C:\\Users\\coped\\.apklab\\uber-apk-signer-1.1.0.jar",
+    "apklab.jadxDirPath": "C:\\Users\\coped\\.apklab\\jadx-1.2.0",
+    "apklab.apktoolPath": "C:\\Users\\coped\\.apklab\\apktool_2.4.1.jar",
 }
