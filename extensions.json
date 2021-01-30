@@ -6,7 +6,6 @@
 	"esbenp.prettier-vscode",
 	"firefox-devtools.vscode-firefox-debug",
 	"LoyieKing.smalise",
-	"matklad.ra-lsp",
 	"matklad.rust-analyzer",
 	"ms-azuretools.vscode-docker",
 	"ms-dotnettools.csharp",
