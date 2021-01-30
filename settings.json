@@ -1330,7 +1330,8 @@
         "secretkey",
         "sourcemap",
         "typechecking",
-        "typedoc"
+        "typedoc",
+        "vsync"
     ],
     "java.configuration.checkProjectSettingsExclusions": false,
     "java.semanticHighlighting.enabled": true,
