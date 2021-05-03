@@ -9,6 +9,8 @@
 	"matklad.rust-analyzer",
 	"ms-azuretools.vscode-docker",
 	"ms-dotnettools.csharp",
+	"ms-python.python",
+	"ms-toolsai.jupyter",
 	"ms-vscode-remote.remote-wsl",
 	"ms-vsliveshare.vsliveshare",
 	"octref.vetur",
